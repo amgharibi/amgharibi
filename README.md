@@ -27,4 +27,5 @@ dev = Developer()
 
 ---
 
-<img width="100%" alt="quote_v3 (1)" src="https://github.com/user-attachments/assets/c732bdab-eb02-4636-9b69-30f60ea06b99" />
+<img width="100%" alt="quote_v3 (1) (1)" src="https://github.com/user-attachments/assets/65e5a8d4-8dbc-42dd-8764-e6df4b77fc7e" />
+
